@@ -12,6 +12,12 @@ by Christian Jaeger.)
 
 
 
+# Warning
+
+Many of the **methods used in the code sample are deprecated**.
+
+
+
 # MacOS Installation
 
 Install **gnu-scientific-library** 
